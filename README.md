@@ -1,0 +1,9 @@
+# Full-stack-# Step 1: Create and Navigate to Project Directory
+mkdir full-stack
+cd full-stack
+
+# Step 2: Initialize a New Git Repository
+git init
+
+# Step 3: Create Project Files
+echo "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Full-Stack Website</title><link rel='stylesheet' href='styles.css'></head><body><header><nav><ul><li><a href='#about'>About Us</a></li><li><a href='#services'>Services</a></li><li><a href='#portfolio'>Portfolio</a></li><li><a href='#contact'>Contact</a></li></ul></nav><div class='hero'><div class='container'><h1>Welcome to Your Company</h1><p>We create innovative solutions to meet your needs.</p></div></div></header><main><section id='about'><div class='container'><h2>About Us</h2><p>Welcome to our company! Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div></section><section id='services'><div class='container'><h2>Our Services</h2><div class='services-grid'><div class='service'><h3>Web Development</h3><p>We build responsive and scalable web applications.</p></div><div class='service'><h3>Mobile App Development</h3><p>Create native and cross-platform mobile apps.</p></div><div class='service'><h3>UI/UX Design</h3><p>Design intuitive interfaces with user experience in mind.</p></div><div class='service'><h3>Cloud Solutions</h3><p>Deploy scalable applications on cloud platforms.</p></div></div></div></section><section id='portfolio'><div class='container'><h2>Our Portfolio</h2><div class='portfolio-grid'><div class='portfolio-item'><img src='images/project1.jpg' alt='Project 1'><h3>Project 1</h3><p>Description of project 1.</p></div><div class='portfolio-item'><img src='images/project2.jpg' alt='Project 2'><h3>Project 2</h3><p>Description of project 2.</p></div><div class='portfolio-item'><img src='images/project3.jpg' alt='Project 3'><h3>Project 3</h3><p>Description of project 3.</
